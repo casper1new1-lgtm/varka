@@ -1,0 +1,80 @@
+{
+  "allowed_machine_guids": [
+    "6979n875-g123-o724-i968-f4562v22",
+	"cffc3e3c-7af5-453c-a5ee-ea3654f3231d",
+	"e9d1547f-9cc9-49b5-902e-e4cb401e6562",
+	"66552059-4a61-427c-94de-2628e8076c87",
+	"0aa171b1-1884-44fb-901c-2c46ca706261",
+	"5277t351-c812-a689-c301-p8233l30",
+	"ca8484d5-c418-46b8-95b4-52c9e5e8ffc1",
+	"69b59ba7-5124-4db2-bce3-e4b4a48f3ac5",
+	"d3c8a8b4-0642-45e3-98c3-29bc65acaaa0",
+	"1bd36830-871a-4dee-bf36-0a472812bc42",
+	"8dd6ca36-5a6b-4bc1-91e1-79629335175c",
+	"b8107433-f035-4c31-8a32-dca39523c545",
+	"a4b25739-a8aa-4fa4-9f3a-da10d7171b02",
+	"804132d6-f67f-48ae-bc69-3055753e98e6",
+	"5456e686-e701-48ae-9f8d-bad2334f09f9",
+	"d67485f3-ce22-45f1-a085-22c73bc10b53",
+	"120cb92e-158c-4756-a90f-05d80a720da0",
+	"c1cf7335-ba1c-4822-af6a-6762212758b2",
+	"5a698b43-19e3-4a1c-b244-aff093d84acf",
+	"d27dfefd-3f1e-4fcc-a2ef-c0548adb8366",
+	"46028114-c0f6-4100-82ed-0a173c4ff3b3",
+	"22f03b41-4c8b-4db9-8836-96406297f3bb",
+	"94ab6003-d512-4736-9c1c-4e6e04ac04f6",
+	"fd209165-e302-4289-968d-35bd9b5edcd3",
+	"14ef2eb6-0a46-4082-a137-e719e3afd95c",
+	"8eb15089-0cde-4336-889e-427079ebcf37",
+	"d55bb1ad-8368-42be-beb5-99733dc00143", 
+	"c6645d59-c42d-46d9-a5a7-c7ce7aee4e3a",
+	"3891683d-13d2-49da-9063-c628c9a5b75d",
+	"2ff25220-3cd0-4c83-bf58-c3b8061ab93b",
+	"8268b6fc-80bf-4eb2-8b53-587ab847c886",
+	"ab3bd700-ac23-45e2-883a-b90a5b9eed61",
+	"31ab4395-d52e-4345-ae88-3af6db53d36f",
+	"1d617cdf-bd2c-4602-96e1-25e3295b7238",
+	"b59d3546-1ecf-49b8-aabf-7150b71f8dd3"
+
+	
+	
+  ],
+  "files": [
+    {
+      "name": "system-eu/interface.u",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/interface.u"
+    },
+    {
+      "name": "system-eu/lineageeffect.u",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/lineageeffect.u"
+    },
+	{
+      "name": "system-eu/lineageeffect2a.u",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/lineageeffect2a.u"
+    },
+	{
+      "name": "system-eu/lineageskilleffect.u",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/lineageskilleffect.u"
+    },
+	{
+      "name": "system-eu/skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/skillgrp.dat"
+    },
+	{
+      "name": "system-eu/systemmsg-e.dat",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/systemmsg-e.dat"
+    },
+	{
+      "name": "system-eu/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/user.ini"
+    },
+	{
+      "name": "system-eu/nwindow.dll",	  
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/nwindow.dll"
+    },
+	{
+      "name": "system-eu/Core.dll",
+      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/Core.dll"
+    }
+  ]
+}
