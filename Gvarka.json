@@ -69,35 +69,35 @@
   ],
   "files": [
     {
-      "name": "system-eu/interface.u",
+      "name": "system-eu-eu/interface.u",
       "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/interface.u"
     },
     {
-      "name": "system/LineageEffect.u",
+      "name": "system-eu/LineageEffect.u",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect.u"
     },
     {
-      "name": "system/lineageeffect2a.u",
+      "name": "system-eu/lineageeffect2a.u",
       "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/lineageeffect2a.u"
     },
     {
-      "name": "system/LineageEffect3a.u",
+      "name": "system-eu/LineageEffect3a.u",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect3a.u"
     },
     {
-      "name": "system/LineageSkillEffect.u",
+      "name": "system-eu/LineageSkillEffect.u",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageSkillEffect.u"
     },
     {
-      "name": "system/skillgrp.dat",
+      "name": "system-eu/skillgrp.dat",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/skillgrp.dat"
     },
     {
-      "name": "system/systemmsg-e.dat",
+      "name": "system-eu/systemmsg-e.dat",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/systemmsg-e.dat"
     },
     {
-      "name": "system/user.ini",
+      "name": "system-eu/user.ini",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
 	{
