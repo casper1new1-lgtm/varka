@@ -61,36 +61,36 @@
       "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/interface.u"
     },
     {
-      "name": "system-eu/LineageEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/LineageEffect.u"
+      "name": "system/LineageEffect.u",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect.u"
     },
-	{
-      "name": "system-eu/lineageeffect2a.u",
+    {
+      "name": "system/lineageeffect2a.u",
       "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/lineageeffect2a.u"
     },
-	{
-      "name": "system-eu/LineageEffect3a.u",
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/LineageEffect3a.u"
-    },  
-	{
-      "name": "system-eu/lineageskilleffect.u",
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/lineageskilleffect.u"
+    {
+      "name": "system/LineageEffect3a.u",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect3a.u"
+    },
+    {
+      "name": "system/LineageSkillEffect.u",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageSkillEffect.u"
+    },
+    {
+      "name": "system/skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/skillgrp.dat"
+    },
+    {
+      "name": "system/systemmsg-e.dat",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/systemmsg-e.dat"
+    },
+    {
+      "name": "system/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
 	{
-      "name": "system-eu/skillgrp.dat",
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/skillgrp.dat"
-    },
-	{
-      "name": "system-eu/systemmsg-e.dat",
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/systemmsg-e.dat"
-    },
-	{
-      "name": "system-eu/user.ini",
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/user.ini"
-    },
-	{
-      "name": "system-eu/nwindow.dll",	  
-      "url": "https://github.com/casper1new1-lgtm/varka/raw/refs/heads/main/nwindow.dll"
+      "name": "staticmeshes/LineageEffectsStaticmeshes2.usx",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
     },
 	{
       "name": "system-eu/Core.dll",
